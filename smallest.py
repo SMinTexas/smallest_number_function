@@ -15,5 +15,5 @@ numbers = [7, 21, 4, 33, -456, 8, 99, 1, 12340, 2, 79, 88, 124, 90]
 print(" ")
 print(f"Original List: {numbers}")
 print(" ")
-print(f"New List: {smallest(numbers)}")
+print(f"Smallest Number: {smallest(numbers)}")
 print(" ")
